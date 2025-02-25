@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Ann                 
+<!--I'm a beginner embarking on my coding journey currently pursuing certificate in computer programming. I have no prior experience but a strong  drive to learn and grow. I'm excited to build a meaningful project as I progress and gain skills.
 
-<!--
-**ann738/ann738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ***Technologies***: css3, tailwind, Javascript, Next.JS, HTML5.
+   ***Tools ***:  GitHub,  vs code,  Linux, Command Line, Codespaces.
+   ##Current Projects **:
+      *GitHub Milestone*:  Just learnt how to create a profile ReadMe repository.
+     **Generated a Personal Access Token(PAT) to securely push code.**
+     
+     ##Contactv Me** 
+    Email: wanjihhann@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
